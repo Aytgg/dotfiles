@@ -1,0 +1,37 @@
+# Ignore everything by default.
+*
+
+!LICENSE
+
+!*.md
+
+!setup.sh
+
+!.profile
+
+!.zshrc
+
+!.gitconfig
+
+# The gitignore of this repository itself (!)
+!.gitignore
+
+# Vim plugins, ftplugins, syntax etc etc
+!.vim
+!.vim/*
+!.vim/*/*
+!.vim/*/*/*
+!.vim/*/*/*/*
+!.vim/*/*/*/*/*
+!.vim/*/*/*/*/*/*
+# Vim settings
+!.vimrc
+
+# Linux workstation stuff
+!.config
+!.config/*
+!.config/*/*
+!.config/*/*/*
+!.config/*/*/*/*
+!.config/*/*/*/*/*
+!.config/*/*/*/*/*/*
