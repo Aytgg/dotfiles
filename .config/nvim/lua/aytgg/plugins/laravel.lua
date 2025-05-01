@@ -23,6 +23,9 @@ return {
 					enable = true,
 					view = "top",
 				},
+				model_info = {
+					enable = true,
+				},
 				pickers = {
 					enable = true,
 					provider = "telescope",
