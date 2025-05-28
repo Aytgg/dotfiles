@@ -44,6 +44,7 @@ return {
 				"c",
 				"php",
 				"blade",
+				"html",
 			},
 			incremental_selection = {
 				enable = true,
